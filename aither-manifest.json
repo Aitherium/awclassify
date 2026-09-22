@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1",
+  "name": "awclassify",
+  "description": "Classify any document -- what it is, who may read it, who it is for, what it is about.",
+  "url": "https://aitherium.github.io/awclassify/",
+  "repository": "https://github.com/Aitherium/awclassify",
+  "kind": "tool",
+  "status": "no-pages",
+  "adopt": "Run it on one file and read what it is, who may see it and what it is about.",
+  "pairs_with": [
+    "awknowledge",
+    "awkno",
+    "awdk"
+  ],
+  "includes": [],
+  "metrics": {
+    "files": {
+      "value": 19,
+      "as_of": "2026-09-22T02:07:53-07:00"
+    },
+    "tests": {
+      "value": 2,
+      "as_of": "2026-09-22T02:07:53-07:00"
+    }
+  }
+}
