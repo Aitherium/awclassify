@@ -1,0 +1,29 @@
+# awclassify
+
+> Classify any document -- what it is, who may read it, who it is for, what it is about.
+
+A corpus nobody has classified cannot be published safely or retrieved well: the one internal page in a public mirror is found by a stranger, and the question that needed a design note gets a changelog. Classification must be a standalone step any pipeline can call, not a judgement buried in a model prompt.
+
+## Install
+
+```
+pip install awclassify
+```
+
+## Use it in 30 seconds
+
+Run it on one file and read what it is, who may see it and what it is about.
+
+## Composes with
+
+- [awknowledge](https://aitherium.github.io/awknowledge/) — How to run a coding agent so the result survives — the laws, with evidence.
+- [awkno](https://aitherium.github.io/awkno/) — The man page for the Aither World — every brick, stack and law, offline.
+- [awdk](https://aitherium.github.io/awdk/) — Build AI agent fleets — 3 lines, any backend, local or cloud.
+
+## Where it lives
+
+- Repo: https://github.com/Aitherium/awclassify
+
+This repository is mirrored from the AitherOS monorepo by `.github/workflows/sync-awclassify.yml`; hand edits made here are overwritten on the next sync — change the source instead.
+
+Everything Aitherium, in one file for agents: https://aitherium.com/llms.txt
