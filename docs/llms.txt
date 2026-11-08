@@ -23,6 +23,8 @@ Run it on one file and read what it is, who may see it and what it is about.
 ## Where it lives
 
 - Repo: https://github.com/Aitherium/awclassify
+- Docs: https://aitherium.github.io/awclassify/
+- Manifest (keys + the one-line adoption story): https://aitherium.github.io/awclassify/aither-manifest.json
 
 This repository is mirrored from the AitherOS monorepo by `.github/workflows/sync-awclassify.yml`; hand edits made here are overwritten on the next sync — change the source instead.
 
